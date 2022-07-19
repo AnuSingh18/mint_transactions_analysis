@@ -1,1 +1,1 @@
-# mint_transactions_analysis
+# Analysis on the all account transactions from Mint Application
